@@ -1,3 +1,6 @@
 "first day: meeting"
 "second: Diner"
 "third: to go pagoda"
+"second day : List" 
+"to buy diamond" 
+"to fill daily report" 
