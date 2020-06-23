@@ -1,1 +1,3 @@
 "first day: meeting"
+"second: Diner"
+"third: to go pagoda"
